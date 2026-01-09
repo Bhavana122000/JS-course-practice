@@ -1,4 +1,4 @@
-const calculator = require('./calci'); 
+const calculator = require('./calci');
 
 calculator.addition(9, 10);
 calculator.subtraction(9, 10);

@@ -1,4 +1,4 @@
-var score = 73; 
+var score = 73;
 
 // if (score > 90) {
 //     console.log('Got my laptop');

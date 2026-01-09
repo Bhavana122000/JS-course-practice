@@ -13,9 +13,9 @@ function div(a,b){
 
 
 module.exports = {
-    addition: add, 
-    subtraction: sub, 
-    multiplication: mul, 
+    addition: add,
+    subtraction: sub,
+    multiplication: mul,
     division: div
 }
 
