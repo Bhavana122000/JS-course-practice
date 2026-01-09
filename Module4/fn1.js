@@ -3,7 +3,7 @@ function greet(){
     console.log("Hello");
 } //function decleration and definition
 
-greet(); //function invocation 
+greet(); //function invocation
 
 // Parameters and arguments
 function add(a, b){

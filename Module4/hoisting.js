@@ -1,8 +1,8 @@
 console.log(a);
-greet(); 
+greet();
 add(3, 4);
 
-var a = 10; 
+var a = 10;
 
 function greet(){
     console.log("Hello World!");
