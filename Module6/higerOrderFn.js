@@ -1,5 +1,5 @@
-// callback function - function for which the function is PASSED as an argument.
-// higher order function - function which actually RECEIVE a function as an argument.
+// callback function - the function that is being passed
+// higher order function - the function accepting the callback
 
 const num = [1, 2, 3, 4, 5]
 // map is a HOF
