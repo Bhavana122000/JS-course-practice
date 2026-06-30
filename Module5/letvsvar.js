@@ -7,7 +7,7 @@ let b = 30;
 console.log("🚀 ~ b:", b)
 
 
-// scoping : variables declared with let keyword are bloked scope
+// scoping : variables declared with let keyword are blocked scope
 if (true) {
     let c = 10;
     c = 100;
